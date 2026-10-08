@@ -1,0 +1,5 @@
+app
+*.o
+build/
+.vscode/
+.idea/
